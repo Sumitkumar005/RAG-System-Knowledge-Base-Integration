@@ -1,0 +1,19 @@
+streamlit
+langchain
+faiss-cpu
+PyPDF2
+python-docx
+pandas
+pytesseract
+Pillow
+whisper
+openai
+pdfplumber
+pytube==15.0.0         # For downloading YouTube videos
+moviepy==1.0.3         # For processing video files
+whisper==0.1.4         # For audio transcription (OpenAI Whisper)
+torch==2.0.1           # Required for running Whisper (PyTorch)
+opencv-python==4.8.0.74 # For advanced video processing
+pydub==0.25.1          # For audio manipulation
+ffmpeg-python==0.2.0   # For video/audio conversion and extraction
+numpy==1.24.4          # For numerical operations in video/audio processing
