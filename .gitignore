@@ -8,6 +8,7 @@ env/
 .vscode/
 .idea/
 
+config.py
 
 .DS_Store
 Thumbs.db
