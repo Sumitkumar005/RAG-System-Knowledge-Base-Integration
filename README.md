@@ -26,7 +26,7 @@ This repository contains the code and resources for building a **Retrieval-Augme
 - **Embedding Storage** 💾: Generates embeddings for text data and stores them in a FAISS vector index for fast retrieval.
 - **Conversational Interface** 🗣️: Allows users to ask questions and receive context-aware answers through a Streamlit-based interface.
 - **Multimedia Handling** 🎥🎙️: Transcribes audio and video, and extracts text from images using OCR techniques.
-![RAG Template Image](./rag_template-image1.webp)
+![RAG Template Image](.sampledata/rag_template-image1.webp)
  
 
 ## **2. Technologies Used 🛠️**
