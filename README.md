@@ -3,6 +3,19 @@
 This repository contains the code and resources for building a **Retrieval-Augmented Generation (RAG)** system for a **Manufacturing Execution System (MES)** in the chemical industry.
 
 ## **Table of Contents 📖 🔬**
+# RAG System Knowledge Base Integration
+
+Here are some images for the system:
+
+### Image 1
+![SVG Image](./sampledata/image.svg)
+
+### Image 2
+![RAG Template Image](./sampledata/rag_template-image1.webp)
+
+### Image 3
+![Streamlit Interface](./sampledata/streamlit.png)
+
 
 - [1. Features](#1-features-)
 - [2. Technologies Used](#2-technologies-used-)
