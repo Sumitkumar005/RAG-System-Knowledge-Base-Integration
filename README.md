@@ -26,8 +26,8 @@ This repository contains the code and resources for building a **Retrieval-Augme
 - **Embedding Storage** 💾: Generates embeddings for text data and stores them in a FAISS vector index for fast retrieval.
 - **Conversational Interface** 🗣️: Allows users to ask questions and receive context-aware answers through a Streamlit-based interface.
 - **Multimedia Handling** 🎥🎙️: Transcribes audio and video, and extracts text from images using OCR techniques.
-![RAG Template Image](.sampledata/rag_template-image1.webp)
- 
+
+ ![Image Alt Text](./sampledata/rag_template-image1.webp)
 
 ## **2. Technologies Used 🛠️**
 
@@ -49,7 +49,7 @@ Ensure that the following are installed before setting up the system:
 - Python 3.x
 - Required Python libraries (refer to the **Requirements.txt** file)
 
-![Streamlit Example](./streamlit.png)
+![Image Alt Text](./sampledata/streamlit.png)
  
 
 ## **4. Setup Instructions ⚙️**
@@ -66,7 +66,7 @@ Follow the steps below to set up the system:
 
 ## **5. Data Preprocessing 🧹**
 
-![SVG Image](./image.svg)
+![Image Alt Text](./sampledata/image.svg)
 The system requires preprocessing of various types of data:
 
 - **Textual Data**: Extract text from PDFs, DOCX, CSV, and JSON files using the respective libraries (PyPDF2, python-docx, pandas).
