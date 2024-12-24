@@ -11,7 +11,7 @@ Here are some images for the system:
 ![SVG Image](./sampledata/image.svg)
 
 ### Image 2
-![RAG Template Image](./sampledata/rag_template-image1.webp)
+![RAG Template Image](./sample_data/rag_template-image1.webp)
 
 ### Image 3
 ![Streamlit Interface](./sampledata/streamlit.png)
