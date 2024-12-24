@@ -7,15 +7,6 @@ This repository contains the code and resources for building a **Retrieval-Augme
 
 Here are some images for the system:
 
-### Image 1
-![SVG Image](./sampledata/image.svg)
-
-### Image 2
-![RAG Template Image](./sample_data/rag_template-image1.webp)
-
-### Image 3
-![Streamlit Interface](./sampledata/streamlit.png)
-
 
 - [1. Features](#1-features-)
 - [2. Technologies Used](#2-technologies-used-)
@@ -124,6 +115,7 @@ The project is organized as follows:
 - **/tests**: Contains test scripts to evaluate system performance.
 
 ## **12. Testing and Evaluation 🧪**
+![Image Alt Text](./sample_data/streamlit.png)
 
 The system has been tested for:
 
