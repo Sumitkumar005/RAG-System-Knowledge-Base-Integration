@@ -32,7 +32,6 @@ Here are some images for the system:
 - **Multimedia Handling** 🎥🎙️: Transcribes audio and video, and extracts text from images using OCR techniques.
 
  ![Image Alt Text](./sample_data/rag_template-image1.webp)
-
 ## **2. Technologies Used 🛠️**
 
 - **Streamlit**: For building an interactive and user-friendly interface.
@@ -85,6 +84,7 @@ The system requires preprocessing of various types of data:
 - The FAISS index is queried to fetch the most relevant information based on user queries.
 
 ## **8. RAG Workflow 🔄**
+![Image Alt Text](./sample_data/Key-System-Components-and-Their-Roles.svg)
 
 1. **Input**: User submits a question or query through the Streamlit interface.
 2. **Retrieval**: Relevant context is retrieved from the FAISS index by matching the question with the stored embeddings.
