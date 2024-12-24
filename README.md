@@ -31,7 +31,7 @@ Here are some images for the system:
 - **Conversational Interface** 🗣️: Allows users to ask questions and receive context-aware answers through a Streamlit-based interface.
 - **Multimedia Handling** 🎥🎙️: Transcribes audio and video, and extracts text from images using OCR techniques.
 
- ![Image Alt Text](./sampledata/rag_template-image1.webp)
+ ![Image Alt Text](./sample_data/rag_template-image1.webp)
 
 ## **2. Technologies Used 🛠️**
 
@@ -52,9 +52,6 @@ Ensure that the following are installed before setting up the system:
 
 - Python 3.x
 - Required Python libraries (refer to the **Requirements.txt** file)
-
-![Image Alt Text](./sample_data/streamlit.png)
- 
 
 ## **4. Setup Instructions ⚙️**
 
