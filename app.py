@@ -15,7 +15,7 @@ conversation_chain = None
 
 st.title("RAG System: Knowledge Base Integration")
 st.sidebar.title("Upload Files")
-import whisper
+import whisper #h
 
 def transcribe_audio(uploaded_file):
     audio_file = uploaded_file.read()
